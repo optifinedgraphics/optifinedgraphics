@@ -1,4 +1,4 @@
-<center><img src="https://i.imgur.com/iBWSME0.png" alt="Logo" width="1897" height="672" /></center>
+<center><img src="https://imgur.com/isfVVh4.png" alt="Logo" width="1897" height="672" /></center>
 
 **Opitifned Grapghics** is a Minecraft optimization mod,
 It allows Minecraft to run faster and look better with
