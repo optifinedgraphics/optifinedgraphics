@@ -6,8 +6,6 @@
 It allows Minecraft to run faster and look better with
 full support for HD textures and many configuration options.
 
-<img src="https://imgur.com/QpurBFN.png" alt="Bold Breakline" width="1344" height="48" />
-
 ## **Features**
 
 FPS boost (examples)
@@ -119,8 +117,6 @@ Autosave
 - Configurable Autosave interval
 - A fix for the famous Lag Spike of Deat
 
-<img src="https://imgur.com/QpurBFN.png" alt="Bold Breakline" width="1344" height="48" />
-
 ## **Notice**
 
-> **THIS IS NOT THE OFFICIAL OPTIFINE MOD, ITS A LIGHTWEIGHT AND HEVILY OPTIMIZED VERSION OF IT. WE ARE NOT AFFILIATED WITH MOJANG STUDIOS, MICROSOFT STUDIOS, MICROSOFT OR MOJANG AB.**
+**THIS IS NOT THE OFFICIAL OPTIFINE MOD, ITS A LIGHTWEIGHT AND HEVILY OPTIMIZED VERSION OF IT. WE ARE NOT AFFILIATED WITH MOJANG STUDIOS, MICROSOFT STUDIOS, MICROSOFT OR MOJANG AB.**
