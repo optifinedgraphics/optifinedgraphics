@@ -8,7 +8,7 @@ full support for HD textures and many configuration options.
 
 ## **Features**
 
-FPS boost (examples)
+FPS boost ([examples](<https://imgur.com/a/4NhyN#0>))
 - doubling the FPS is common
 - decreases lag spikes and smooths gameplay
 Support for HD Textures (info)
