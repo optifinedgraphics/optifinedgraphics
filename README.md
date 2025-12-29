@@ -1,15 +1,15 @@
 <center><img src="https://imgur.com/isfVVh4.png" alt="Logo" width="1897" height="672" /></center>
 
+## **Description**
+
 **Opitifned Grapghics** is a Minecraft optimization mod,
 It allows Minecraft to run faster and look better with
 full support for HD textures and many configuration options.
 
-You'll face a new take on **Minecraft's combat**,  
-where all entities have new and challenging fighting mechanics.
-
-<img src="https://i.imgur.com/CWsUfxt.jpg" alt="Bold Breakline" width="1344" height="48" />
+<img src="https://imgur.com/QpurBFN.png" alt="Bold Breakline" width="1344" height="48" />
 
 ## **Features**
+
 FPS boost (examples)
 - doubling the FPS is common
 - decreases lag spikes and smooths gameplay
@@ -118,5 +118,9 @@ Default, Day Only or Night Only - works in only in Creative mode
 Autosave
 - Configurable Autosave interval
 - A fix for the famous Lag Spike of Deat
+
+<img src="https://imgur.com/QpurBFN.png" alt="Bold Breakline" width="1344" height="48" />
+
+## **Notice**
 
 > **THIS IS NOT THE OFFICIAL OPTIFINE MOD, ITS A LIGHTWEIGHT AND HEVILY OPTIMIZED VERSION OF IT. WE ARE NOT AFFILIATED WITH MOJANG STUDIOS, MICROSOFT STUDIOS, MICROSOFT OR MOJANG AB.**
